@@ -1,3 +1,3 @@
 # Olá, **_Mundo!!!_**
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Imagem de um Yaktocat](https://octodex.github.com/images/yaktocat.png)
